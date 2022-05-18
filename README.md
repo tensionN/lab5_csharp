@@ -1,3 +1,7 @@
+# Task condition
+![image](https://user-images.githubusercontent.com/90928531/169023665-dcab4d51-8021-4a08-9d03-1650e6460b14.png)
+# List of medicines
+![image](https://user-images.githubusercontent.com/90928531/169023835-348eaf25-5fd0-4c77-9d2b-2509d05ae802.png)
 # 1 PART
 # Start form
 ![image](https://user-images.githubusercontent.com/90928531/169019663-255befc6-62fb-4614-847f-08d07b8b2662.png)
